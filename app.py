@@ -1,3 +1,4 @@
+# just add this comment how PR triggers automated test
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
